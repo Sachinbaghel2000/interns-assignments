@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module ignitershub_assign {
-}
